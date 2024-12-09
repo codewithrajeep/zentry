@@ -9,7 +9,7 @@
   </div>
 
   <h3 align="center">An Zentry Website</h3>
-
+</div>
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - GSAP
